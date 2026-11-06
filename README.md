@@ -330,14 +330,14 @@ The application is configured for deployment to:
 ## 📞 Support
 
 For questions and support:
-- **Email**: deepanshik825@gmail.com
+- **Email**:priyankalamba2004@gamil.com
 - **GitHub Issues**: For bug reports and feature requests
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for enterprise user management**
+**Built with love for enterprise user management**
 
 *A comprehensive demo showcasing modern React development patterns*
 
